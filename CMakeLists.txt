@@ -13,4 +13,7 @@ link_libraries(
     swscale
     avutil
 )
-ADD_EXECUTABLE(ffmpeg_basic 0_helloword.cpp) 
+ADD_EXECUTABLE(0_helloword 0_helloword.cpp ) 
+ADD_EXECUTABLE(2_remuxing  "2_remuxing.cpp") 
+
+
