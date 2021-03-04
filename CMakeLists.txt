@@ -19,7 +19,7 @@ ADD_EXECUTABLE(3_log  "3_log.c")
 ADD_EXECUTABLE(4_deleteAndrename  "4_deleteAndrename.c") 
 ADD_EXECUTABLE(5_meta  "5_meta.c") 
 ADD_EXECUTABLE(6_audioData  "6_audioData.c") 
-ADD_EXECUTABLE(7_H264Data "7_H264Data.c") 
+#ADD_EXECUTABLE(7_H264Data "7_H264Data.c") 
 
 
 

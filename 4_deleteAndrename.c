@@ -3,7 +3,7 @@
 int main() {
 
 
-	av_register_all();
+	// av_register_all();
 
 
 	int ret;
